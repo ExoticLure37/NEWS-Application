@@ -1,0 +1,31 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(252, 252, 252);
+}
+
+.navbar{
+    background-color: #c9c7c5;
+    justify-content: space-between;
+    /* display: flex; */
+}
+.navbar-brand{
+    color: rgb(31, 26, 26);
+    font-weight: 30px;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    padding-top:13px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+    align-items: center;
+    padding-left: 50px;
+    /* padding-right: 20px; */
+}
+
