@@ -1,7 +1,5 @@
 # NEWS-Application
 
-# News Application
-
 Welcome to the News Application project! This application is built using HTML, CSS, JavaScript, Bootstrap, and several news APIs to provide users with the latest news from various sources.
 
 ## Table of Contents
